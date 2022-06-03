@@ -1,1 +1,2 @@
 # systematicReview
+This repository contains data and code used for the manuscript: Association between smoking exposure and cervical cell abnormality among women living with HIV: a systematic review Corresponding author: Email: zhao0675@umn.edu Phone: 612-295-9715 Address: University of Minnesota School of Public Health Division of Epidemiology and Community Health 300 West Bank Office Building 1300 S 2nd St Minneapolis, MN 55454, US
